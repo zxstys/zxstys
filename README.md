@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-![Header](./header.png)
+![Header](./banner.png)
 
 Here are some ideas to get you started:
 
