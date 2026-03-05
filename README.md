@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
 ![Header](./banner.png)
 
-Here are some ideas to get you started:
+Hellow! i'm ***Zxsty*** ( ofc this is not my real name ), i'm a Backend Developer from **Indonesia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Primary Programming Language
+
+- [PHP](php.net)
+- [JavaScript Node](nodejs.org)
+
+
+#### Projects i'm currently working
+
+*-*
+
+#### Future things that i want to learn
+
+- **Go** and **Java** Language
+- How to create good UI / UX
